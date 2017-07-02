@@ -1,0 +1,5 @@
+# The name of this package.
+package: github.com/billyteves/go-helloworld
+
+# External dependencies.
+
